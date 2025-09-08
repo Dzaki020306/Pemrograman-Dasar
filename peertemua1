@@ -1,0 +1,79 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNFKmvn3FZU0jhi+5I6LEVc",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Dzaki020306/Pemrograman-Dasar/blob/main/peertemua1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Biodata Saya\n",
+        "\n",
+        "nama = \"Dzaki Naufal Ilham\"\n",
+        "umur = 19\n",
+        "jurusan = \"RPE\"\n",
+        "semester = 3\n",
+        "matakuliah = \"Pemerograman Dasar\"\n",
+        "status_lulus = False\n",
+        "\n",
+        "print(nama)\n",
+        "print(umur)\n",
+        "print(jurusan)\n",
+        "print(semester)\n",
+        "print(matakuliah)\n",
+        "print(status_lulus)"
+      ],
+      "metadata": {
+        "id": "wiKX3OIkxNut",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "74eace11-d2f0-4ae3-9533-8793a2b0f0d6"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Dzaki Naufal Ilham\n",
+            "19\n",
+            "RPE\n",
+            "3\n",
+            "Pemerograman Dasar\n",
+            "False\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "H51992cixOVy"
+      }
+    }
+  ]
+}
